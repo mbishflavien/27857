@@ -3,23 +3,6 @@
 A collection of six fully implemented OOP systems designed to demonstrate inheritance, encapsulation, validation, and real-world modeling in Java.
 Each system follows a strict 10-class inheritance hierarchy, includes input handling (Scanner), and provides a final class with a computation/report method.
 
-Repository Structure
-OOP-Management-Systems/
-│
-├── StockManagementSystem/
-│   └── src/stockmanagement/
-├── FlightBookingSystem/
-│   └── src/flightbooking/
-├── TaxAdministrationSystem/
-│   └── src/taxadministration/
-├── ProcurementManagementSystem/
-│   └── src/procurement/
-├── AttendanceManagementSystem/
-│   └── src/attendance/
-└── PayrollManagementSystem/
-    └── src/payroll/
-
-
 Each system includes:
 
 -10 Java classes (one per file)
@@ -98,13 +81,13 @@ RSSB + PAYE
 
 Across all systems, students learn:
 
-✔ Inheritance across large class chains
-✔ Encapsulation using private fields
-✔ Data validation using exceptions
-✔ Java constructors with checks
-✔ User input with Scanner
-✔ Final class method (report / calculation)
-✔ Organized multi-package Java project structure
+ Inheritance across large class chains
+ Encapsulation using private fields
+ Data validation using exceptions
+ Java constructors with checks
+ User input with Scanner
+ Final class method (report / calculation)
+ Organized multi-package Java project structure
 
 ## Contributing
 
